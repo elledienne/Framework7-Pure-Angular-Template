@@ -6,7 +6,7 @@ I had created another template before (https://github.com/valnub/Framework7-Type
 ## How to use
 
 Just watch my video screencast tutorial: http://www.timo-ernst.net/blog/2015/11/05/video-screencast-how-to-use-framework7-with-angularjs/
-
+ 
 ## Live demo
 
 Check it out here: http://www.timo-ernst.net/misc/f7-pure-angular-template-demo/
